@@ -1,0 +1,15 @@
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\bin\Debug\net6.0\HackerRank.Tests.exe
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\bin\Debug\net6.0\HackerRank.Tests.deps.json
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\bin\Debug\net6.0\HackerRank.Tests.runtimeconfig.json
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\bin\Debug\net6.0\HackerRank.Tests.dll
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\bin\Debug\net6.0\HackerRank.Tests.pdb
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.csproj.AssemblyReference.cache
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.AssemblyInfoInputs.cache
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.AssemblyInfo.cs
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.csproj.CoreCompileInputs.cache
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.dll
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\refint\HackerRank.Tests.dll
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.pdb
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\HackerRank.Tests.genruntimeconfig.cache
+C:\Shreni\Code\Learning\HackerRank\HackerRank.Tests\HackerRank.Tests\obj\Debug\net6.0\ref\HackerRank.Tests.dll
