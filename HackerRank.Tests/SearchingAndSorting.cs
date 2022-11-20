@@ -34,22 +34,42 @@ namespace HackerRank.Tests
         public static List<int> icecreamParlor(int m, List<int> arr)
         {
             #region BruteForce Approach
+            //List<int> result = new List<int>();
+            //for (int i = 0; i < arr.Count; i++)
+            //{
+            //    for (int j = i+1; j < arr.Count; j++)
+            //    {
+            //        if (arr[i] + arr[j] == m)
+            //        {
+            //            result.Add(i + 1);
+            //            result.Add(j + 1);
+            //            result.Sort();
+            //            return result;
+            //        }
+
+            //    }
+            //}
+            //return null;
+            #endregion
+
+            #region Optimized Approach
             List<int> result = new List<int>();
+            Dictionary<int, int> arrayIdxDict = new Dictionary<int, int>();
             for (int i = 0; i < arr.Count; i++)
             {
-                for (int j = i+1; j < arr.Count; j++)
+                //int j = int.MinValue;
+                int x = arr[i];
+                int y = m - x;
+                if (arrayIdxDict.TryGetValue(y, out int j))
                 {
-                    if (arr[i] + arr[j] == m)
-                    {
-                        result.Add(i + 1);
-                        result.Add(j + 1);
-                        result.Sort();
-                        return result;
-                    }
 
+                    result.Add(j + 1);
+                    result.Add(i + 1);
+                    break;
                 }
+                arrayIdxDict.Add(x, i);
             }
-            return null;
+            return result;
             #endregion
             //List<int> result = new List<int>();
             //Dictionary<int, int> arrayIdxDict = new Dictionary<int, int>();
