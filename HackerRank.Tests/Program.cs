@@ -24,6 +24,8 @@ var result = SearchingAndSorting.icecreamParlor(4, new List<int> { 1, 4,5,3,2 })
 //var missingNumbers = SearchingAndSorting.missingNumbers(arr, brr);
 
 #region Recursion Test Inputs
-Recursion.staircase(6);
+//Recursion.staircase(6);
+
+var fibonacci_result = Recursion.Fibonacci(5);
 #endregion
 
